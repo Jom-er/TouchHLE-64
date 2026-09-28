@@ -1,2 +1,2 @@
-# TouchHLE-64
-It run modern ios games like resident evil remake games and so on.
+# NovaHLE
+It runs modern iOS games like Resident Evil Remake Games and so on.
